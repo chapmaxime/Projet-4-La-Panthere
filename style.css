@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: black;
 }
 
 .d-bloc .a-btn:hover,
@@ -150,7 +150,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: #c27956;
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -195,7 +195,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: #161616;
 }
 
 .d-bloc .panel button:hover,
@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #161616!important;
 }
 
 .container {
@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -736,7 +736,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .portfolio-thumb {
@@ -771,11 +771,11 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: white;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
@@ -1072,3 +1072,10 @@ h4 {
     max-width: 460px;
     margin: auto;
   }
+
+
+  p.text-center.white {
+    font-size: 20px;
+    margin-bottom: 20px;
+    
+}
